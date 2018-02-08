@@ -2,8 +2,6 @@
 #include<malloc.h>
 #include <assert.h>
 
-//版权声明：原创不易，转载请注明转自[weewqrer 红黑树](http://blog.csdn.net/weewqrer/article/details/51866488)
-
 //红黑树
 typedef enum ColorType {RED, BLACK} ColorType;
 typedef struct rbt_t{
